@@ -1,4 +1,4 @@
-def max(a, b)
+def fun(a, b)
     #A puts max
       if a > b
         print "max ", a
@@ -8,4 +8,4 @@ def max(a, b)
         puts "a = b"
       end
     end
-    max(5,6)
+    fun(5, 6)
