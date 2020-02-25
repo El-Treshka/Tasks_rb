@@ -1,4 +1,4 @@
-def task192()
+def fun()
   n = gets.to_i
   b = []
   for a in 1..n
@@ -8,4 +8,4 @@ def task192()
   end
   puts "b #{b.length}"
 end
-task192()
+fun()
