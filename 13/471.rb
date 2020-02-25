@@ -1,5 +1,5 @@
 total = 0
-File.open('index.txt', 'r') do |f|
+File.open('47x.txt', 'r') do |f|
   while (line = f.gets)
 
     arr = line.split(",")
