@@ -1,4 +1,4 @@
-def task136()
+def fun()
   n = gets.to_i
   q=0.0
   for i in 1..n
@@ -7,4 +7,4 @@ def task136()
   puts q
 end
 
-task136()
+fun()
