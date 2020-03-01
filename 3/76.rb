@@ -6,7 +6,7 @@ def fun()
   m = gets.to_i
   n = gets.to_i
   kL = getColor(k,l)
-  mN = getColor(m,l)
+  mN = getColor(m,n)
   puts "k, l: #{kL}"
   puts "m, n: #{mN}"
   if kL == mN
